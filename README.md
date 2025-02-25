@@ -76,6 +76,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 -Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 -Prompt engineering helps in making your questions clear and specific, so the AI understands exactly what you need.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 --lear Scope: It specifies that the focus is on artificial intelligence in healthcare, not just technology in general.
 --Defined Length: The 500-word requirement helps ensure the response is neither too short nor too long.
 --Specific Requirements: It asks for examples of AI applications and their impact on patient care, guiding the writer on what details to include.
